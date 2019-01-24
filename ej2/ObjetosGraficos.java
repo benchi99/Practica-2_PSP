@@ -13,7 +13,7 @@
  * Para saber como se crea una etiqueta
  * Véase https://www.geeksforgeeks.org/jlabel-java-swing/
  */
-package ej2;
+package Practica_2_PSP.ej2;
 
 import java.awt.*;
 import java.awt.event.WindowAdapter;

@@ -1,4 +1,4 @@
-package ej3;
+package Practica_2_PSP.ej3;
 
 public class SistemaDeRedNoHilos {
 	

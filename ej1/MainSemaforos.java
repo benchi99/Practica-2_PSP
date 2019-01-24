@@ -1,4 +1,4 @@
-package ej1;
+package Practica_2_PSP.ej1;
 
 import java.util.concurrent.Semaphore;
 

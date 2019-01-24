@@ -1,4 +1,4 @@
-package ej1;
+package Practica_2_PSP.ej1;
 
 public class MainEsperaActiva {
 
